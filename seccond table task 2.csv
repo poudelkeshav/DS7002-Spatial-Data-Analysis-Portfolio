@@ -1,0 +1,8 @@
+London Borough,Region,Largest Area,Smallest Area,Highest Pop Dense,Lowest Pop Dense,Northernmost,Southernmost,Most East,Most West
+Croydon,Outer,0,0,0,0,0,1,0,0
+Bromley,Outer,1,0,0,1,0,0,0,0
+Havering,Outer,0,0,0,0,0,0,1,0
+Hillingdon,Outer,0,0,0,0,0,0,0,1
+Enfield,Outer,0,0,0,0,1,0,0,0
+Islington,Inner,0,0,1,0,0,0,0,0
+City,Inner,0,1,0,0,0,0,0,0

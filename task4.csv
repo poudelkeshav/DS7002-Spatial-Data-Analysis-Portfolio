@@ -1,0 +1,29 @@
+Group,London Borough Name,Number of Tube Stations,Number of Lines ,Stations / sq.Km,Stations / 1000 pop
+Inner,Camden,19,8,0.871988,0.084444
+Inner,City,14,8,4.445319,1.842105
+Inner,Hackney,1,1,0.052496,0.003967
+Inner,Hammersmith and Fulham,15,5,0.874428,0.083380
+Inner,Haringey,6,3,0.202714,0.023175
+Inner,Islington,11,6,0.740409,0.052133
+Inner,Kensington and Chelsea,11,5,0.888258,0.070558
+Inner,Lambeth,10,5,0.366981,0.032237
+Inner,Lewisham,2,1,0.056630,0.007102
+Inner,Newham,27,5,0.699879,0.085960
+Inner,Southwark,5,3,0.167149,0.017036
+Inner,Tower Hamlets,27,6,1.251449,0.102662
+Inner,Wandsworth,6,2,0.170357,0.019462
+Inner,Westminster,36,10,1.634131,0.160786
+Outer,Barking and Dagenham,5,2,0.132277,0.026233
+Outer,Barnet,12,1,0.138331,0.032967
+Outer,Brent,21,4,0.485744,0.066730
+Outer,Ealing,15,3,0.270054,0.044027
+Outer,Enfield,4,1,0.048662,0.012606
+Outer,Greenwich,5,2,0.099124,0.019223
+Outer,Harrow,10,4,0.198166,0.041254
+Outer,Havering,4,1,0.034948,0.016688
+Outer,Hillingdon,15,3,0.129644,0.053229
+Outer,Hounslow,9,2,0.159052,0.034736
+Outer,Merton,5,2,0.132891,0.024728
+Outer,Redbridge,10,1,0.177172,0.035137
+Outer,Richmond upon Thames,2,1,0.034036,0.010576
+Outer,Waltham Forest,4,2,0.103072,0.015232

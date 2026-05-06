@@ -1,0 +1,6 @@
+London Borough,Region,Largest Area,Smallest Area,Highest Population Density,Lowest Population Density,Northernmost,Southernmost,Most East,Most West
+Bromley,Outer,1,0,0,1,0,0,0,0
+Havering,Outer,0,0,0,0,0,0,1,0
+Enfield,Outer,0,0,0,0,1,0,0,0
+Islington,Inner,0,0,1,0,0,0,0,0
+Island Borough,Outer,0,1,0,0,0,1,0,1
